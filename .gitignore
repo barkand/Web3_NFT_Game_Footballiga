@@ -1,0 +1,10 @@
+node_modules/
+.cache/
+public
+src/gatsby-types.d.ts
+
+coverage
+package-lock.json
+#
+.env.development
+.env.production
