@@ -1,8 +1,7 @@
 import React from "react";
 import { Link, useI18next } from "gatsby-plugin-react-i18next";
 
-import { PublicContext } from "../../context";
-import cultures from "../../context/default/culture";
+import { PublicContext, DefaultCulture } from "../../context";
 import { IconButton } from "../../components";
 
 export default function LanguageButton(props: any) {
@@ -13,7 +12,7 @@ export default function LanguageButton(props: any) {
   const handleChange = () => {
     setPublicCtx({
       ...publicCtx,
-      culture: cultures[language],
+      culture: DefaultCulture[language],
     });
   };
 
