@@ -7,6 +7,7 @@ import {
   MainField,
   MainFeatures,
   MainTopBlog,
+  MainAbout,
   MainFooter,
 } from "../components/layout/main/gadget";
 import { LeftShape, RightShape } from "../components/layout/shape";
@@ -31,6 +32,10 @@ const IndexPage: React.FC<PageProps> = ({ data }: any) => {
 
           <GridItem xs={12}>
             <MainFooter />
+          </GridItem>
+
+          <GridItem xs={12}>
+            <MainAbout />
           </GridItem>
         </GridHeader>
       </Layout>
