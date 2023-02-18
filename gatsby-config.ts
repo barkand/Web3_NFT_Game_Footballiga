@@ -2,8 +2,8 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `site`,
-    siteUrl: `https://site.doryta.com`,
+    title: `Footballiga a NFT Game`,
+    siteUrl: `https://footballiga.com`,
   },
   graphqlTypegen: true,
   flags: {
@@ -23,7 +23,7 @@ const config: GatsbyConfig = {
         localeJsonSourceName: `locale`,
         languages: [`en`, `fa`],
         defaultLanguage: `en`,
-        siteUrl: `https://site.doryta.com`,
+        siteUrl: `https://footballiga.com`,
         trailingSlash: "always",
         i18nextOptions: {
           interpolation: {
