@@ -1,4 +1,4 @@
-# Gatsby_Footballiga:
+# Gatsby Footballiga:
 
 npm init gatsby my-gatsby-site -y -js
 

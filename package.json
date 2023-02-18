@@ -1,11 +1,15 @@
 {
-  "name": "site",
+  "name": "Footballiga",
   "version": "1.0.0",
   "private": true,
-  "description": "site",
+  "description": "Footballiga a NFT Game",
   "author": "Hamid Barkand",
   "keywords": [
-    "gatsby"
+    "Footballiga",
+    "Football",
+    "NFT",
+    "Game",
+    "Blockchain"
   ],
   "scripts": {
     "dev": "gatsby develop",
