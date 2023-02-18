@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import { Trans } from "gatsby-plugin-react-i18next";
 
 import {
   Grid,
@@ -23,7 +24,7 @@ function CardPage({ node }: any) {
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              {node.frontmatter.title}
+              <Trans>{node.frontmatter.title}</Trans>
             </Typography>
             <Typography variant="body2" color="text.secondary">
               {node.frontmatter.page_image_desc}
@@ -37,7 +38,7 @@ function CardPage({ node }: any) {
 
 const BlogPage = ({ data }: any) => {
   return (
-    <Layout>
+    <Layout language="en">
       <Grid
         container
         rowSpacing={5}
