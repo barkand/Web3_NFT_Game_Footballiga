@@ -65,7 +65,7 @@ export const query = graphql`
 `;
 
 export const Head = ({ data }: any) => (
-  <title>{data.mdx.frontmatter.title}</title>
+  <title>{data.mdx.frontmatter.title.replace("-title", "")}</title>
 );
 
 export default BlogPost;
