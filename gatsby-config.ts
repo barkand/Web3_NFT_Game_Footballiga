@@ -36,9 +36,12 @@ const config: GatsbyConfig = {
     },
     "gatsby-plugin-sass",
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "google-ID",
+        trackingIds: ["G-1HC1JT3HZY"],
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     "gatsby-plugin-sitemap",
