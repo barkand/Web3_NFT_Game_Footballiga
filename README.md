@@ -15,6 +15,7 @@ A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier Le
 > cd site
 
 > npm i
+
 > npm run start
 
 # Footballiga App:
