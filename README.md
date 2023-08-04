@@ -4,7 +4,7 @@ A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier Le
 
 #### Demo:
 
-> footballiga.com
+> [Demo](footballiga.com/)
 
 #### How we created:
 
@@ -25,7 +25,4 @@ A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier Le
 
 #### App Github:
 
-> Frontend: https://github.com/barkand/Vite_Template
-> Backend: https://github.com/barkand/Node_Template
-> Smart Contract: https://github.com/barkand/Contract_Footballiga
-> Docker: https://github.com/barkand/Docker
+> [Frontend](https://github.com/barkand/Vite_Template) | [Backend](https://github.com/barkand/Node_Template) | [Smart Contract](https://github.com/barkand/Contract_Footballiga) | [Docker](https://github.com/barkand/Docker)
