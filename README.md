@@ -6,7 +6,7 @@ A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier Le
 
 > [Footballiga Site](footballiga.com/)
 
-#### How we created:
+#### Init:
 
 > npm init gatsby site -y -js
 
