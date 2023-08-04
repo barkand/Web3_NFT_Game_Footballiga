@@ -1,6 +1,7 @@
 # Footballiga Site:
 
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-639?style=flat-square&logo=gatsby&logoColor=fff&link=)]()
+![MDX Badge](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=fff&link=)
 <br />
 
 A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier League players.
