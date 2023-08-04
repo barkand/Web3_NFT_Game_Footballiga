@@ -4,7 +4,7 @@ A web3 game on Ethereum blockchain platform along with NFT of Iranian Premier Le
 
 #### Demo:
 
-> [Demo](footballiga.com/)
+> [Footballiga](footballiga.com/)
 
 #### How we created:
 
